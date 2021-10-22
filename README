@@ -1,1 +1,13 @@
-TEST
+Two .csv files in data folder as a repository of cell performance test data
+Temp_CellPerformance.py is the python class to do the analysis and visualization (python 3)
+The figures generated saved in results folder
+
+Required python packages:
+numpy
+pandas
+dask
+matplotlib
+glob
+os
+datetime
+
