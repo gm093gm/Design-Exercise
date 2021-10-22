@@ -1,3 +1,7 @@
+The two .csv files are too large to be uploaded to Github
+***Please download the python script Temp_CellPerformance.py in the the directory, where please create a folder named "data" containing the two .csv files***
+
+Description of the project:
 Two .csv files in data folder as a repository of cell performance test data
 Temp_CellPerformance.py is the python class to do the analysis and visualization (python 3)
 The figures generated saved in results folder
